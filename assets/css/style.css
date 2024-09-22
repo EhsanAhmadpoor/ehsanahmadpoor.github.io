@@ -614,67 +614,8 @@ mark {
 /*---------------------------
  Portfolio Start
 ------------------------------*/
-.portfolio-content.grid-col-2 .grid-item {
-  width: 50%; }
-  @media (max-width: 767px) {
-    .portfolio-content.grid-col-2 .grid-item {
-      width: 100%; } }
-
-@media (min-width: 992px) {
-  .portfolio-content.grid-col-3 .grid-item {
-    width: 33.3333%; } }
-
-@media (max-width: 991px) {
-  .portfolio-content.grid-col-3 .grid-item {
-    width: 50%; } }
-
-@media (max-width: 767px) {
-  .portfolio-content.grid-col-3 .grid-item {
-    width: 100%; } }
-
-@media (min-width: 992px) {
-  .portfolio-content.grid-col-4 .grid-item {
-    width: 33.3333%; } }
-
-@media (min-width: 1201px) {
-  .portfolio-content.grid-col-4 .grid-item {
-    width: 25%; } }
-
-@media (max-width: 991px) {
-  .portfolio-content.grid-col-4 .grid-item {
-    width: 50%; } }
-
-@media (max-width: 767px) {
-  .portfolio-content.grid-col-4 .grid-item {
-    width: 100%; } }
-
-@media (min-width: 992px) {
-  .portfolio-content.grid-col-5 .grid-item {
-    width: 33.3333%; } }
-
-@media (min-width: 1201px) {
-  .portfolio-content.grid-col-5 .grid-item {
-    width: 20%; } }
-
-@media (max-width: 991px) {
-  .portfolio-content.grid-col-5 .grid-item {
-    width: 50%; } }
-
-@media (max-width: 767px) {
-  .portfolio-content.grid-col-5 .grid-item {
-    width: 100%; } }
-
-.portfolio-content.grid-gutter-md {
-  margin-left: -4px;
-  margin-right: -4px; }
-  .portfolio-content.grid-gutter-md .grid-item {
-    padding: 8px; }
-
-.portfolio-content.grid-gutter-lg {
-  margin-left: -12px;
-  margin-right: -12px; }
-  .portfolio-content.grid-gutter-lg .grid-item {
-    padding: 12px; }
+.portfolio-content .grid-item {
+  width: 100%; }
 
 .portfolio-content .grid-item {
   float: left; }
