@@ -1,4 +1,4 @@
 module.exports = {
-  assetPrefix: '/ehsanahmadpoor.github.io',
-  basePath: '/ehsanahmadpoor.github.io'
+  assetPrefix: '/ehsanahmadpoor-github-io.vercel.app/',
+  basePath: '/ehsanahmadpoor-github-io.vercel.app'
 }
