@@ -200,8 +200,138 @@ const Portfolio = () => {
             <div className="row">
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
+                  <h6>Deep Learning Teaching Assistant</h6>
+                  <label>Dr. Marzieh Davoodabadi | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Natural Language Processing Teaching Assistant</h6>
+                  <label>Dr. Marzieh Davoodabadi | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Artificial Intelligence Teaching Assistant</h6>
+                  <label>Dr. Mohammad Reza Mohammadi | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
                   <h6>Software Engineering Teaching Assistant</h6>
                   <label>Dr. Mehrdad Ashtiani | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Operating Systems Teaching Assistant</h6>
+                  <label>Dr. Reza Entezari-Maleki | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Design Algorithms Teaching Assistant</h6>
+                  <label>Dr. Farzaneh Ghayour Baghbani | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Fundamentals of Computer Programming Teaching Assistant</h6>
+                  <label>Dr. Marzieh Malekimajd | Fall 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Fundamentals of Computer Programming Teaching Assistant</h6>
+                  <label>Dr. Mehrdad Ashtiani | Spring 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Advanced Programming Teaching Assistant</h6>
+                  <label>Dr. Marzieh Davoodabadi | Spring 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Discrete Mathematics Teaching Assistant</h6>
+                  <label>Dr. Marzieh Davoodabadi | Spring 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Advanced Programming Teaching Assistant</h6>
+                  <label>Dr. Sauleh Eetemadi | Spring 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Advanced Programming Teaching Assistant</h6>
+                  <label>Dr. Marzieh Malekimajd | Spring 2024</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Advanced Programming Teaching Assistant</h6>
+                  <label>Dr. Marzieh Malekimajd | Fall 2023</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="resume-row grid-item TA">
+            <div className="row">
+              <div className="col-sm-9 col-md-9 col-xl-10">
+                <div className="rb-right">
+                  <h6>Design Algorithms Teaching Assistant</h6>
+                  <label>Dr. Farzaneh Ghayour Baghbani | Fall 2023</label>
                 </div>
               </div>
             </div>
